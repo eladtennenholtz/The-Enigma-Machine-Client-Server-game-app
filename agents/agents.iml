@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="okHttp3" level="project" />
+    <orderEntry type="library" name="okHttp" level="project" />
+    <orderEntry type="library" name="Agent" level="project" />
+    <orderEntry type="library" name="okHttp2" level="project" />
+    <orderEntry type="library" name="google-gson-2.12" level="project" />
+    <orderEntry type="library" name="google-gson-2.1" level="project" />
+    <orderEntry type="library" name="google-gson-2.13" level="project" />
+    <orderEntry type="library" name="Ally" level="project" />
+    <orderEntry type="library" name="okHttp1" level="project" />
+    <orderEntry type="library" name="google-gson-2.11" level="project" />
+    <orderEntry type="library" name="UBoat" level="project" />
+    <orderEntry type="module" module-name="uboat" />
+    <orderEntry type="module" module-name="dto" />
+    <orderEntry type="module" module-name="machine" />
+  </component>
+</module>
